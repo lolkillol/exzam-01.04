@@ -73,4 +73,4 @@ class Program
     }
 }
 ```
-<img src=""/>
+<img src="https://github.com/lolkillol/exzam-01.04/blob/main/1.png?raw=true"/>
