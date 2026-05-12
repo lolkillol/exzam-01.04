@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\examen\DiscountCalculator\bin\Debug\net8.0\DiscountCalculator.exe
+C:\Users\user\Desktop\examen\DiscountCalculator\bin\Debug\net8.0\DiscountCalculator.deps.json
+C:\Users\user\Desktop\examen\DiscountCalculator\bin\Debug\net8.0\DiscountCalculator.runtimeconfig.json
+C:\Users\user\Desktop\examen\DiscountCalculator\bin\Debug\net8.0\DiscountCalculator.dll
+C:\Users\user\Desktop\examen\DiscountCalculator\bin\Debug\net8.0\DiscountCalculator.pdb
+C:\Users\user\Desktop\examen\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\examen\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\examen\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.AssemblyInfo.cs
+C:\Users\user\Desktop\examen\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\examen\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.dll
+C:\Users\user\Desktop\examen\DiscountCalculator\obj\Debug\net8.0\refint\DiscountCalculator.dll
+C:\Users\user\Desktop\examen\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.pdb
+C:\Users\user\Desktop\examen\DiscountCalculator\obj\Debug\net8.0\DiscountCalculator.genruntimeconfig.cache
+C:\Users\user\Desktop\examen\DiscountCalculator\obj\Debug\net8.0\ref\DiscountCalculator.dll
